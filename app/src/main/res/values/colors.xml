@@ -3,4 +3,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#0f131b</color>
+    <color name="colorLoading">#F4A701</color>
+    <color name="colorPutih">#ffffff</color>
+    <color name="colorAbu">#32ffffff</color>
 </resources>

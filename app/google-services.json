@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "702301288141",
+    "firebase_url": "https://qory-1202154225-modul6.firebaseio.com",
+    "project_id": "qory-1202154225-modul6",
+    "storage_bucket": "qory-1202154225-modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702301288141:android:6a01728bf6caa199",
+        "android_client_info": {
+          "package_name": "com.example.hnf.qoryummuhanifah_1202154357_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702301288141-ata69612eboo93v4mmmb408r0b22egs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg5F0ILOV_Bo9nl1TThW0qqdRJt_v4M00"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
